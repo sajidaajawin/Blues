@@ -1,1 +1,3 @@
-# Blues
+# Blues (Wireframe and Mockup)
+- in this project im making a website for selling  local products imagine instead of you going to every shope to find the local and origin product or drive across the cities to find everything you want in one place and ypu dont have to worry about the delivery  
+- link to figma (https://www.figma.com/file/5mjXtiI2NXPlaVoET7qi8t/wireframe-and-mockup?type=design&node-id=0-1&mode=design&t=fbLYoZUJiRKiW5AK-0)
